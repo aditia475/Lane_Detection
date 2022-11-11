@@ -1,5 +1,5 @@
 # Lane_Detection
-> #Real-Time Lane Detection
+> # Real-Time Lane Detection
 
 Theoretical details: -
 > The core part of the detection is to correctly extract the lines of the road from all the rest of the images. 
